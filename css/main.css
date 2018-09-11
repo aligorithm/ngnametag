@@ -1,0 +1,57 @@
+	#showcase{
+		background:rgba(112,190,123,.6);
+		color:#ffffff;
+		height:100%;
+		margin-top:60px;
+		font-family:helvetica;
+	}
+	#message{
+		font-size:29px;
+		text-align:center;
+	}
+	.name-text{
+		font-family:trebuchet;
+	}
+	.parallax { 
+    /* The image used */
+    
+
+    /* Set a specific height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-01{
+	background-image: url("https://s22.postimg.org/99dre5vtd/bg_01.jpg");
+}
+.bg-02{
+	background-image: url("https://s22.postimg.org/pyf7a2sep/bg_02.jpg");
+}
+.bg-03{
+	background-image: url("https://s22.postimg.org/g2e4afmmp/bg_03.jpg");
+}
+.bg-04{
+	background-image: url("https://s22.postimg.org/6j4fgyz4h/bg_04.jpg");
+}
+.bg-05{
+	background-image: url("https://s22.postimg.org/rhalf1yz5/bg_05.jpg");
+}
+.bg-06{
+	background-image: url("https://s22.postimg.org/56mqf31ox/bg_06.jpg");
+}
+.bg-07{
+	background-image: url("https://s22.postimg.org/yn2chi829/bg_07.jpg");
+}
+.bg-08{
+	background-image: url("https://s22.postimg.org/wwjbg0qj5/bg_08.jpg");
+}
+.page-header{
+	background:rgba(111,200,122,.7);
+}
+form{
+	margin-bottom: 90px;
+}
